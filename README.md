@@ -5,11 +5,12 @@ Files
 -----
 .:
 downloadURL.py - python script
+
 input.txt - sample input file
 
 How to run the Script
 ---------------------
 
-1. download the project.
-2. simply run the python script
-3. select a input file with urls or the given input file.
+1. Download the project.
+2. Dimply run the python script
+3. Select an input text file with urls OR the given input file.
