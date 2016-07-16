@@ -3,7 +3,7 @@ downloadURL
 
 Files
 -----
-.:
+
 downloadURL.py - python script
 
 input.txt - sample input file
