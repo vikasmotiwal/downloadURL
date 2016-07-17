@@ -16,7 +16,7 @@ def downloadURL(file):
 ## file is then passed through the downloadURL function
 import tkinter as tk
 from tkinter import filedialog
-root = tk.Tk()
+root = tk.Tk() ## Supress additional unwanted windows
 root.withdraw()
 ## Select a file through file dialog and if it's valid, call the function
 inputfile = filedialog.askopenfilename()
