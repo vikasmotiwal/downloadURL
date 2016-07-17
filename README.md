@@ -6,7 +6,7 @@ Files
 
 downloadURL.py - python script
 
-input.txt - sample input file
+input.txt - sample input file with some URLs
 
 How to run the Script
 ---------------------
